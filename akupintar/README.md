@@ -25,5 +25,5 @@
 	
 #Catatan :
 - API ini dibuat dengan sederhana tanpa mempertimbangkan aspek UI
-- database yang digunakan adalah mysql dengan struktur sesuai gambar arsitekturdata.png
-- sql dapat didownload pada file akupintar.sql
+- database yang digunakan adalah mysql dengan struktur sesuai gambar arsitekturdata.pdf
+- sql dapat didownload pada file akupintar.sql dan diinstal melalui panel import pada dashboard phpMyAdmin
